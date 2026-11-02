@@ -75,8 +75,8 @@ Harris, I., Osborn, T.J., Jones, P., and Lister, D. (2020). Version 4 of the CRU
 
 ## Author
 
-YOUR NAME
+ASARE FELIX ASIEDU
 
 ## License
 
-Add a license of your choice, for example MIT. See [choosealicense.com](https://choosealicense.com/).
+MIT License
